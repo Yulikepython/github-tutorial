@@ -1,0 +1,1 @@
+rulesetでAdminを除外していたからpull requestが不要だった？
