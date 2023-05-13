@@ -1,0 +1,2 @@
+別のブランチでpushをおこなう。
+git上もしくは、git checkoutでメインブランチへ移動して、git merge
