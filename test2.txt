@@ -1,0 +1,1 @@
+これは一度ローカルでgit checkout -dをしたあとに、git checkoutで戻ってきたもの。
